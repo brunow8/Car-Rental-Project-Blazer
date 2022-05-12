@@ -1,7 +1,12 @@
 .navbar-toggler {
-    background-color: rgba(255, 255, 255, 0.1);
+    background: rgb(255,255,255, 0.1);
 }
-
+.sideNav {
+    background: rgb(11,1,1);
+    background: linear-gradient(180deg, rgba(11,1,1,1) 0%, rgba(181,127,9,1) 22%, rgba(213,166,46,1) 70%, rgba(243,245,229,1) 100%);
+    background-size: cover;
+    height: 100%;
+}
 .top-row {
     height: 3.5rem;
     background-color: rgba(0,0,0,0.4);
@@ -10,7 +15,22 @@
 .navbar-brand {
     font-size: 1.1rem;
 }
+.sideNavTitle{
+    background-color: black;
+}
+.title{
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+}
 
+.title:hover, title:active {
+    background-color: white;
+    color: black;
+    border-radius:10px;
+}
 .oi {
     width: 2rem;
     font-size: 1.1rem;
