@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MCzVG1YwJfYSIzbEl4HyKCSVUsN5StDVYHB5NQlFkmVSDQ06IkpoXTqvKHjSQhDCwGumAb89rdi3u18J9zm6Sw==",
+  "dgSpecHash": "1OJ6R9o/fo4t/RadxBfkpyq5h7CAp8cvrqX8YUuhmYi984oTGTgQowVybKIjp/3zE0FG5l0BlNGpe+/HpHDJXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bruno Barbosa\\Desktop\\Nova pasta\\CarRentalManagement-Blazor-WASM\\CarRentalManagement\\Shared\\CarRentalManagement.Shared.csproj",
+  "projectFilePath": "C:\\Users\\Bruno Barbosa\\Desktop\\Blazer Rental Car\\CarRentalManagement\\Shared\\CarRentalManagement.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

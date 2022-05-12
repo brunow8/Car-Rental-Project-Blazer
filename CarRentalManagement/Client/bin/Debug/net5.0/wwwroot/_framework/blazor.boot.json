@@ -203,15 +203,15 @@
       "mscorlib.dll": "sha256-RvlJgNNOrNqPypkseRqbe69kNd7hnKW0u6Bmt1305d4=",
       "netstandard.dll": "sha256-Ttq9E+RchoLMvC6pS8ktXuaz1r51vG7wSm1emPBPRrk=",
       "System.Private.CoreLib.dll": "sha256-7y7hjQvy9SAXBmGIcqlrFwPQioCDSax5WwjUDJYfRAk=",
-      "CarRentalManagement.Shared.dll": "sha256-GWn2g9iDZnAC+opRXq6K89ezG2Un5k25ac22eB9iCVA=",
-      "CarRentalManagement.Client.dll": "sha256-7wKrz6nFNZh82KL14zf0Jzm9zU6Z3WTQYA9k18FDwc0="
+      "CarRentalManagement.Shared.dll": "sha256-iUV3Wvd5zXPlDqIuO1q5h8y1A9phSgNO60lrosEp3m4=",
+      "CarRentalManagement.Client.dll": "sha256-I9XOxxnhSGpp4r1rzE2VMVbUy0Hd93XAeC\/lz19u0VM="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "CarRentalManagement.Shared.pdb": "sha256-E4Ofb4B+puCWE9tWx69PE3DUjhJ1TOA6ES8V8\/bSPf4=",
-      "CarRentalManagement.Client.pdb": "sha256-uvr7MQDln72GcazcVAjhBWGZtBo6COCRWU1Wc40taUE="
+      "CarRentalManagement.Shared.pdb": "sha256-ydl5DOnQtrZpYqUsq8XEjHs9vKYCdaRkMPKrvTJGbME=",
+      "CarRentalManagement.Client.pdb": "sha256-FGfioi\/KwTVI4ZIhXbvJjgaif\/zx+9W34AKk45jSdrs="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-jWuZI+z9wt0OfCMj+W5wh3HN+Ye6efC6YfCUWbBHBa8=",

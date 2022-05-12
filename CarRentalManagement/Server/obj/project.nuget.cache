@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OfUwRhDF0m+1C/pQB3ASTmkAdB7H00BBQD1/KGQ1dJjmzmLd6M2wTHcE1FDT4GodBrROz0KcypCKSb0LTTxqHA==",
+  "dgSpecHash": "+tB+c7o9s6pj7EBSB/bXrYl4DarnqoSBE/891Zrz9UGoyOHr0BwMpAyWAlHFwUSnh7zFxQjqGvJKA02u4Ax9TA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bruno Barbosa\\Desktop\\Nova pasta\\CarRentalManagement-Blazor-WASM\\CarRentalManagement\\Server\\CarRentalManagement.Server.csproj",
+  "projectFilePath": "C:\\Users\\Bruno Barbosa\\Desktop\\Blazer Rental Car\\CarRentalManagement\\Server\\CarRentalManagement.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bruno Barbosa\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\Bruno Barbosa\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

@@ -5,7 +5,7 @@
       "url": "_content\/Microsoft.AspNetCore.Components.WebAssembly.Authentication\/AuthenticationService.js"
     },
     {
-      "hash": "sha256-BXfHmh8u9MkW75IWvAORtOSsbc3e\/6Z9ul5ljHjIwGA=",
+      "hash": "sha256-4DJj2kWRVvCzZt4Q8BGxlmUFGk2sy2G6QoRBgFJXODk=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -821,19 +821,19 @@
       "url": "_framework\/dotnet.5.0.16.js"
     },
     {
-      "hash": "sha256-GWn2g9iDZnAC+opRXq6K89ezG2Un5k25ac22eB9iCVA=",
+      "hash": "sha256-iUV3Wvd5zXPlDqIuO1q5h8y1A9phSgNO60lrosEp3m4=",
       "url": "_framework\/CarRentalManagement.Shared.dll"
     },
     {
-      "hash": "sha256-E4Ofb4B+puCWE9tWx69PE3DUjhJ1TOA6ES8V8\/bSPf4=",
+      "hash": "sha256-ydl5DOnQtrZpYqUsq8XEjHs9vKYCdaRkMPKrvTJGbME=",
       "url": "_framework\/CarRentalManagement.Shared.pdb"
     },
     {
-      "hash": "sha256-7wKrz6nFNZh82KL14zf0Jzm9zU6Z3WTQYA9k18FDwc0=",
+      "hash": "sha256-I9XOxxnhSGpp4r1rzE2VMVbUy0Hd93XAeC\/lz19u0VM=",
       "url": "_framework\/CarRentalManagement.Client.dll"
     },
     {
-      "hash": "sha256-uvr7MQDln72GcazcVAjhBWGZtBo6COCRWU1Wc40taUE=",
+      "hash": "sha256-FGfioi\/KwTVI4ZIhXbvJjgaif\/zx+9W34AKk45jSdrs=",
       "url": "_framework\/CarRentalManagement.Client.pdb"
     },
     {
@@ -1653,7 +1653,7 @@
       "url": "_framework\/dotnet.5.0.16.js.gz"
     },
     {
-      "hash": "sha256-4dIqI1yVYs+VAkSA\/i4\/civTSGj7Kr4LEJoxlC73vNg=",
+      "hash": "sha256-qr3BHFGyp\/N\/Nk\/aiiQY31ioDtnT\/VblwJ5aobY7lZI=",
       "url": "_framework\/CarRentalManagement.Shared.dll.gz"
     },
     {
@@ -1733,5 +1733,5 @@
       "url": "CarRentalManagement.Client.bundle.scp.css"
     }
   ],
-  "version": "P8cwkpGA"
+  "version": "c+z7ERON"
 };

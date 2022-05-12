@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UHp/Uxx5WrsCFNLNAVXaZJgfcQE2ymSNeZCvCjPZ1qmYqsDELARYtXj2k/iR3ceYXR+9rd92kwRrZ3tkwo/9/w==",
+  "dgSpecHash": "TlvfQRLbZjp+AzylylBvgJIob5CXzf6e77q6Qd6FS64K8le5UM+EsJqSD0gaphyVOg7FhV6wRURQwY4cOMLzBw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bruno Barbosa\\Desktop\\Nova pasta\\CarRentalManagement-Blazor-WASM\\CarRentalManagement\\Client\\CarRentalManagement.Client.csproj",
+  "projectFilePath": "C:\\Users\\Bruno Barbosa\\Desktop\\Blazer Rental Car\\CarRentalManagement\\Client\\CarRentalManagement.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bruno Barbosa\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
     "C:\\Users\\Bruno Barbosa\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.7\\microsoft.aspnet.webapi.core.5.2.7.nupkg.sha512",

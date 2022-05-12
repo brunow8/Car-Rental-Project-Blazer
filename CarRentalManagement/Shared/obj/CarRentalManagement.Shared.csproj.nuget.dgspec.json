@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bruno Barbosa\\Desktop\\Nova pasta\\CarRentalManagement-Blazor-WASM\\CarRentalManagement\\Shared\\CarRentalManagement.Shared.csproj": {}
+    "C:\\Users\\Bruno Barbosa\\Desktop\\Blazer Rental Car\\CarRentalManagement\\Shared\\CarRentalManagement.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bruno Barbosa\\Desktop\\Nova pasta\\CarRentalManagement-Blazor-WASM\\CarRentalManagement\\Shared\\CarRentalManagement.Shared.csproj": {
+    "C:\\Users\\Bruno Barbosa\\Desktop\\Blazer Rental Car\\CarRentalManagement\\Shared\\CarRentalManagement.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bruno Barbosa\\Desktop\\Nova pasta\\CarRentalManagement-Blazor-WASM\\CarRentalManagement\\Shared\\CarRentalManagement.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Bruno Barbosa\\Desktop\\Blazer Rental Car\\CarRentalManagement\\Shared\\CarRentalManagement.Shared.csproj",
         "projectName": "CarRentalManagement.Shared",
-        "projectPath": "C:\\Users\\Bruno Barbosa\\Desktop\\Nova pasta\\CarRentalManagement-Blazor-WASM\\CarRentalManagement\\Shared\\CarRentalManagement.Shared.csproj",
+        "projectPath": "C:\\Users\\Bruno Barbosa\\Desktop\\Blazer Rental Car\\CarRentalManagement\\Shared\\CarRentalManagement.Shared.csproj",
         "packagesPath": "C:\\Users\\Bruno Barbosa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bruno Barbosa\\Desktop\\Nova pasta\\CarRentalManagement-Blazor-WASM\\CarRentalManagement\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\Bruno Barbosa\\Desktop\\Blazer Rental Car\\CarRentalManagement\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bruno Barbosa\\AppData\\Roaming\\NuGet\\NuGet.Config",
